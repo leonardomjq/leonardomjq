@@ -1,6 +1,5 @@
 ### Hello World, I'm [Leonardo!](https://www.leonardojaques.com/) 🌈 
 
-
 <a href="https://twitter.com/leokindacodes">
   <img align="left" alt="Leonardo Jaques | Twitter" width="21px" src="https://img.icons8.com/color/96/000000/twitter.png"/>
 </a>
@@ -16,6 +15,17 @@
 </a>
 
 
+<br />
+<br />
+
+<img align="left" alt="cute gif of animated person rolling on the ground" width="60px" src="https://media.giphy.com/media/rQ1lzHO0wquGI/giphy.gif"/>
+<img align="left" alt="cute gif of animated person rolling on the ground" width="50px" src="https://media.giphy.com/media/l1IBiCSkcSjBntAs0/giphy.gif"/>
+<img align="left" alt="cute gif of animated person rolling on the ground" width="50px" src="https://media.giphy.com/media/jyAfmNvtRHVE47tKHo/giphy.gif"/>
+
+
+
+<br />
+<br />
 <br />
 <br />
 
