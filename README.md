@@ -24,7 +24,6 @@
 <img alt="cute gif of animated person rolling on the ground" width="50px" src="https://media.giphy.com/media/jyAfmNvtRHVE47tKHo/giphy.gif"/> -->
 
 <br />
-<br />
 
 Hi, I'm Leonardo Jaques, a frontend ReactJS developer based in Lisbon.
 
