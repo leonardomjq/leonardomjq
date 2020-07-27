@@ -1,5 +1,6 @@
 ### Hello World, I'm [Leonardo!](https://www.leonardojaques.com/) 🌈 
 
+
 <a href="https://twitter.com/leokindacodes">
   <img align="left" alt="Leonardo Jaques | Twitter" width="21px" src="https://img.icons8.com/color/96/000000/twitter.png"/>
 </a>
