@@ -6,9 +6,6 @@
 <a href="https://www.instagram.com/leomjaques/">
   <img align="left" alt="Leonardo Jaques | Instagram" width="21px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
-<a href="https://www.tiktok.com/@leojaquesz">
-  <img align="left" alt="Leonardo Jaques | Tik Tok" width="21px" src="https://img.icons8.com/color/48/000000/tiktok.png" />
-</a>
 
 <a href="https://medium.com/@leonardomjq">
   <img align="left" alt="Leonardo Jaques | Tik Tok" width="21px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
