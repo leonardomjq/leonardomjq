@@ -14,7 +14,6 @@
 
 
 <br />
-<br />
 
 <img align="top" alt="cute gif of animated person rolling on the ground" width="50px" src="https://media.giphy.com/media/rQ1lzHO0wquGI/giphy.gif"/>
 
