@@ -16,7 +16,6 @@
 <br />
 
 <img alt="anime person running away" width="50px" src="https://media.giphy.com/media/l1IBiCSkcSjBntAs0/giphy.gif"/>
-<img alt="gif that says code the cool stuff " width="70px" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif"/>
 
 Hi, I'm Leonardo Jaques, a frontend ReactJS developer based in Lisbon.
 
