@@ -5,7 +5,11 @@
 </a>
 
 <a href="https://medium.com/@leonardomjq">
-  <img align="left" alt="Leonardo Jaques | Tik Tok" width="21px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
+  <img align="left" alt="Leonardo Jaques | Medium" width="21px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/leonardojaques/">
+  <img align="left" alt="Leonardo Jaques | Linkedin" width="21px" src="https://img.icons8.com/color/48/000000/linkedin-2.png" />
 </a>
 
 
