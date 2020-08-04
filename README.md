@@ -12,13 +12,10 @@
   <img align="left" alt="Leonardo Jaques | Medium" width="21px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
 </a>
 
-
+<br />
 <br />
 
-<img align="top" alt="cute gif of animated person rolling on the ground" width="50px" src="https://media.giphy.com/media/rQ1lzHO0wquGI/giphy.gif"/>
-
-<!-- <img alt="cute gif of animated person rolling on the ground" width="50px" src="https://media.giphy.com/media/l1IBiCSkcSjBntAs0/giphy.gif"/>
-<img alt="cute gif of animated person rolling on the ground" width="50px" src="https://media.giphy.com/media/jyAfmNvtRHVE47tKHo/giphy.gif"/> -->
+<img alt="cute gif of animated person rolling on the ground" width="50px" src="https://media.giphy.com/media/l1IBiCSkcSjBntAs0/giphy.gif"/>
 
 <br />
 
