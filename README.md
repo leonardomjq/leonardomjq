@@ -13,14 +13,16 @@
 </a>
 
 <br />
-<br />
 
-<img alt="anime person running away" width="50px" src="https://media.giphy.com/media/l1IBiCSkcSjBntAs0/giphy.gif"/>
+Hi, I'm Leonardo Jaques, a frontend ReactJS developer based in Lisbon. <img alt="anime person running away" width="30px" src="https://media.giphy.com/media/l1IBiCSkcSjBntAs0/giphy.gif"/>
 
-Hi, I'm Leonardo Jaques, a frontend ReactJS developer based in Lisbon.
 
 - 💻 Working on a project called [Unflop](https://unflop.me/).
 - 🎉 Currently learning Typescript and Redux.
+- 🏓 <a href="https://dev.to/leomjaques/my-fav-resources-being-a-freelancer-as-a-side-hustle-15ml">Check out my latest blog post on Dev.to</a>
+
+
+
 
 **Languages and Tools:**  
 
