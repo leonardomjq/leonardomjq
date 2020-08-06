@@ -17,7 +17,7 @@
 Hi, I'm Leonardo Jaques, a frontend ReactJS developer based in Lisbon. <img alt="anime person running away" width="30px" src="https://media.giphy.com/media/l1IBiCSkcSjBntAs0/giphy.gif"/>
 
 
-- 💻 Working [Unflop](https://unflop.me/) as a side hustle.
+- 💻 Running [Unflop](https://unflop.me/) as a side hustle.
 - 🎉 Currently learning Typescript and Redux.
 - 🏓 <a href="https://dev.to/leomjaques/my-fav-resources-being-a-freelancer-as-a-side-hustle-15ml">Check out my latest blog post on Dev.to</a>
 
