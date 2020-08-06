@@ -1,15 +1,19 @@
 ### Hello World, I'm [Leonardo!](https://www.leonardojaques.com/) 🌈 
 
 <a href="https://www.linkedin.com/in/leonardojaques/">
-  <img align="left" alt="Leonardo Jaques | Linkedin" width="21px" src="https://img.icons8.com/color/48/000000/linkedin-2.png" />
+  <img align="left" alt="Leonardo Jaques Linkedin profile" src="https://img.icons8.com/color/48/000000/linkedin-2.png" height="30" width="30" />
 </a>
 
-<a href="https://twitter.com/leokindacodes">
-  <img align="left" alt="Leonardo Jaques | Twitter" width="21px" src="https://img.icons8.com/color/96/000000/twitter.png"/>
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fplatform.twitter.com%2F&ref_src=twsrc%5Etfw&screen_name=leokindacodes&tw_p=followbutton">
+  <img align="left" alt="Leonardo Jaques Twitter profile" src="https://img.icons8.com/color/96/000000/twitter.png" height="30" width="30"/>
 </a>
 
 <a href="https://medium.com/@leonardomjq">
-  <img align="left" alt="Leonardo Jaques | Medium" width="21px" src="https://img.icons8.com/color/48/000000/medium-logo.png" />
+  <img align="left" alt="Leonardo Jaques Medium profile" src="https://img.icons8.com/color/48/000000/medium-logo.png" height="30" width="30" />
+</a>
+
+<a href="https://dev.to/leomjaques">
+  <img align="left" alt="Leonardo Jaques Dev.to profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30">
 </a>
 
 <br />
