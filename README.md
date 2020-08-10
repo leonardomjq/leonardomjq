@@ -19,7 +19,7 @@ Hi, I'm Leonardo Jaques, a frontend ReactJS developer currently based in Lisbon,
 
 
 - 💻 Running [Unflop](https://unflop.me/) as a side hustle.
-- 🎉 Currently learning Typescript and Redux.
+- 🎉 Currently learning Typescript.
 - 🏓 <a href="https://dev.to/leomjaques/my-fav-resources-being-a-freelancer-as-a-side-hustle-15ml">Check out my latest blog post on Dev.to</a>
 
 
