@@ -4,12 +4,16 @@
   <img align="left" alt="Leonardo Jaques Twitter profile" src="https://img.icons8.com/color/96/000000/twitter.png" height="30" width="30"/>
 </a>
 
-<a href="https://dev.to/leomjaques">
-  <img align="left" alt="Leonardo Jaques Dev.to profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30">
-</a>
-
 <a href="https://www.linkedin.com/in/leonardojaques/">
   <img align="left" alt="Leonardo Jaques Linkedin profile" src="https://img.icons8.com/color/48/000000/linkedin-2.png" height="30" width="30" />
+</a>
+
+<a href="dsc.bio/leomjaques">
+  <img align="left" alt="Leonardo Jaques Twitter profile" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png" height="30" width="30"/>
+</a>
+
+<a href="https://dev.to/leomjaques">
+  <img align="left" alt="Leonardo Jaques Dev.to profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30">
 </a>
 
 <br>
