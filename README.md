@@ -16,9 +16,6 @@
   <img align="left" alt="Leonardo Jaques Dev.to profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30">
 </a>
 
-<br>
-<br>
-
 Hi, I'm Leonardo Jaques, a frontend ReactJS developer currently based in Lisbon, Portugal. <img alt="anime person running away" width="30px" src="https://media.giphy.com/media/l1IBiCSkcSjBntAs0/giphy.gif"/>
 
 
