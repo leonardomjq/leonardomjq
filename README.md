@@ -1,4 +1,4 @@
-### Hello World, I'm [Leonardo!](https://www.leonardojaques.com/) 🌈 
+### Hello World, I'm [Leonardo](https://www.leonardojaques.com/) 🤹
 
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fplatform.twitter.com%2F&ref_src=twsrc%5Etfw&screen_name=leokindacodes&tw_p=followbutton">
   <img align="left" alt="Leonardo Jaques Twitter profile" src="https://img.icons8.com/color/96/000000/twitter.png" height="30" width="30"/>
