@@ -12,8 +12,6 @@
   <img align="left" alt="Leonardo Jaques Dev.to profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30">
 </a> <br/> <br/>
 
-A frontend ReactJS developer with a passion for building breathtaking, accessible stuff for the web. <img alt="anime person running away" width="30px" src="https://media.giphy.com/media/l1IBiCSkcSjBntAs0/giphy.gif"/>
-
 
 - 💻 Running [Unflop](https://unflop.me/) on the side.
 - 🏓 <a href="https://dev.to/leomjaques/my-fav-resources-being-a-freelancer-as-a-side-hustle-15ml">Check out my latest blog post on Dev.to</a>
