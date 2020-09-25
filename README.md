@@ -19,17 +19,6 @@ A frontend ReactJS developer with a passion for building breathtaking, accessibl
 - 🏓 <a href="https://dev.to/leomjaques/my-fav-resources-being-a-freelancer-as-a-side-hustle-15ml">Check out my latest blog post on Dev.to</a>
 
 
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://api.iconify.design/logos:gatsby.svg"></code>
-<code><img height="20" src="https://api.iconify.design/logos:tailwindcss-icon.svg"></code>
-<code><img height="20" src="https://api.iconify.design/logos:sass.svg"></code>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomjq&layout=compact&theme=radical" />
