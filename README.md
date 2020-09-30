@@ -15,7 +15,7 @@
 
 - 💻 Running [Unflop](https://unflop.me/) on the side.
 - 🏓 <a href="https://dev.to/leomjaques/my-fav-resources-being-a-freelancer-as-a-side-hustle-15ml">Check out my latest blog post on Dev.to</a>
-
+- 🍬 <a href="https://bubblegum.dev/">Bubblegum.dev</a>, the sweetest newsletter on the west is now live!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
