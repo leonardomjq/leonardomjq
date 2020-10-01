@@ -13,8 +13,8 @@
 </a> <br/> <br/>
 
 
-- 💻 [Unflop](https://unflop.me/)builds websites for influencers.
-- 🍬 [Bubblegum.dev](https://bubblegum.dev/) is the sweetest newsletter on the block.
+- 💻 [Unflop](https://unflop.me/) builds websites for young influencers.
+- 🍬 [Bubblegum.dev](https://bubblegum.dev/) is the sweetest resource newsletter for developers.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
