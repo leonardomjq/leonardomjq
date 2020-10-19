@@ -14,8 +14,8 @@
 
 
 Currently on:
-- 💻 [Unflop](https://unflop.me/) builds websites for young influencers.
-- 🍬 [Bubblegum.dev](https://bubblegum.dev/) is the sweetest resource newsletter for developers.
+- 💻 [Unflop](https://unflop.me/), who builds websites for young influencers.
+- 🍬 [Bubblegum.dev](https://bubblegum.dev/), the sweet spot for developers looking for cool resources.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
