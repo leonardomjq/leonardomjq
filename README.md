@@ -13,7 +13,7 @@
 </a> <br/> <br/>
 
 
-Currently on:
+Currently having fun with:
 - 💻 [Unflop](https://unflop.me/), who builds websites for young influencers.
 - 🍬 [Bubblegum.dev](https://bubblegum.dev/), the sweet spot for developers looking for cool resources.
 
