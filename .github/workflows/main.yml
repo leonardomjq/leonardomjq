@@ -12,6 +12,14 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          plugin_isocalendar: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_languages: yes
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_limit: 15
+          plugin_lines: yes
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
