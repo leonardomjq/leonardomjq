@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/leonardomjq?template=classic&base.header=0&isocalendar=1&languages=1&pagespeed=1&stars=1&languages.ignored=HTML&pagespeed.detailed=false&pagespeed.screenshot=true&isocalendar.duration=half-year&stars.limit=4&config.timezone=Europe%2FLisbon)
+
