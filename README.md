@@ -1,4 +1,9 @@
-<h3>👨‍💻 Favorite Tools</h3>
+
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=leonardomjq&theme=great-gatsby&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat"/>
+    </a>
+  </p>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -29,12 +34,4 @@
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-  
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=leonardomjq&theme=great-gatsby&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat"/>
-    </a>
   </p>
