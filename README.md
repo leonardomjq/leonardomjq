@@ -1,10 +1,3 @@
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=leonardomjq&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-    </a>
-  </p>
-
 [![leonardomjq's GitHub | Stats](https://stats.quine.sh/leonardomjq/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=leonardomjq) [![leonardomjq's GitHub | Dependencies](https://stats.quine.sh/leonardomjq/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=leonardomjq)
 
   <p>
